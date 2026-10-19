@@ -4,9 +4,9 @@ Olá, sou o Andrey Santos, estudante de Sistemas de Informação com interesse n
 
 #### Projetos em destaque
 
-- **[DiabetesScan](https://github.com/aandrxy/diabetes-scan)**: predição de risco de Diabetes Tipo 2 com machine learning e explicabilidade via SHAP
-- **[Visual Law](https://github.com/aandrxy/visual-law-ia)**: API REST com anonimização de dados, criptografia e conformidade com a LGPD
-- **[Calculadora de Iluminação](https://aandrxy.github.io/calculadora-iluminacao/)**: ferramenta web para dimensionamento de iluminação de ambientes
+- **[DiabetesScan](https://github.com/aandrxy/diabetes-scan)**: Predição de risco de Diabetes Tipo 2 com machine learning e explicabilidade via SHAP.
+- **[Visual Law](https://github.com/aandrxy/visual-law-ia)**: API REST com anonimização de dados, criptografia e conformidade com a LGPD.
+- **[Calculadora de Iluminação](https://aandrxy.github.io/calculadora-iluminacao/)**: Ferramenta web para dimensionamento de iluminação de ambientes.
 
 #### Tecnologias
 
